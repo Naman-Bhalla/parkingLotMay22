@@ -12,3 +12,13 @@ CLient -> Controller -> Service -> Repository
 
 Use Case:
 - Ability to create a ticket
+
+Assignment:
+1. Make GenerateTicketRequestDto only take entry_gate_id and vehicle_type and vehicle_number
+   - Save the vehicle in the database (VehicleRepository)
+   - Fetch the Gate with that Id (EntryGateRepository)
+2. Implement GenerateBill
+   - Implement FeesCalculatorStrategy
+   - Store the bill in the database (BillRepository)
+   - BillController
+   - BillService

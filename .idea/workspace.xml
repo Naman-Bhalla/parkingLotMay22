@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53941d46-a8d6-440b-a5d0-5db74b6c775e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parkingLotMay22.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/scaler/parkinglot/controllers/TicketController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/controllers/TicketController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/scaler/parkinglot/dto/GenerateTicketResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/dto/GenerateTicketResponseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/scaler/parkinglot/models/Gate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/models/Gate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/scaler/parkinglot/models/ParkingSpot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/models/ParkingSpot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/scaler/parkinglot/models/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/models/Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/scaler/parkinglot/models/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/models/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/scaler/parkinglot/repositories/ParkingLotRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/scaler/parkinglot/repositories/ParkingLotRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -40,7 +42,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -51,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653752721962</updated>
-      <workItem from="1653752724871" duration="4151000" />
+      <workItem from="1653752724871" duration="7361000" />
     </task>
     <servers />
   </component>
